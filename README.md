@@ -1,1 +1,5 @@
-# AI-Zaydullin
+# AI_teacher
+
+
+Popov A.M.
+
